@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-healthcaremonitorapp-dev-144827-authRole",
+      "UnauthRoleArn": "arn:aws:iam::677746396442:role/amplify-healthcaremonitorapp-dev-144827-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::677746396442:role/amplify-healthcaremonitorapp-dev-144827-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-healthcaremonitorapp-dev-144827-deployment",
+      "UnauthRoleName": "amplify-healthcaremonitorapp-dev-144827-unauthRole",
+      "StackName": "amplify-healthcaremonitorapp-dev-144827",
+      "StackId": "arn:aws:cloudformation:us-east-2:677746396442:stack/amplify-healthcaremonitorapp-dev-144827/1fb20550-a430-11ee-9c27-06f160e4c833",
+      "AmplifyAppId": "do5ofs3nr8w88"
+    }
+  }
+}
